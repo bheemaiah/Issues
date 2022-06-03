@@ -1,0 +1,4 @@
+issue1:
+------
+if any change in kitt file, we need to check kitt file carefully blz if any change in gslb part,it will override entire deployment structure before deployment.
+we need care about prod configurations blz if prod deploy fail also gslb part override.
